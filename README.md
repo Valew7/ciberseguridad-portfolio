@@ -32,6 +32,11 @@ Real scan of [revflowy.com](https://revflowy.com) — Score: **70/100**
 
 ---
 
+## image
+
+<img width="1483" height="851" alt="image" src="https://github.com/user-attachments/assets/dca32a5d-2abc-47d4-9d3a-16afc49a9909" />
+
+
 ## Tech Stack
 
 - Python, Bash
